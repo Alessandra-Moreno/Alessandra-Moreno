@@ -43,8 +43,6 @@ I am currently in my third year of Software Engineering at the Federal Institute
 
 # Olá, me chamo Alessandra Moreno Bezerra.
 
-![Foto de Perfil](./Foto_Alessandra.jpeg)
-
 ## Sobre mim
 
 Estou cursando meu terceiro ano de Engenharia de Software no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, onde realizei o técnico em informática para internet integrado ao ensino médio na mesma instituição. Atualmente estou focada em aprimorar meus conhecimentos em programação e desenvolver minhas habilidades técnicas por meio de estudos e projetos práticos.
